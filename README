@@ -1,8 +1,9 @@
+Andrew Huang <bluedrum@163.com> http://bluedrum.sinaapp.com
 0.about my project
 ---------------------------------------------------------------
    unpack-mkbootimg from the CM 7.0 (http://www.cyanogenmod.com/), I extract it  and libmincrpty from /system/core/mkbootimg, and rewrite the Makefile, as a simplified open source project.
 
-Developers run make linux (need to install gcc, make) or windows(neet to install minGW), after the success of the executable file mkbootimg / unpackbootimg.
+Developers run make under linux (need to install gcc, make) or windows(neet to install minGW), after the success of the executable file mkbootimg / unpackbootimg.
 
 
 1.unpackbootimg 
